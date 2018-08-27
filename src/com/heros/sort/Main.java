@@ -29,6 +29,8 @@ public class Main {
 		for (int i : listOfNumbers) {
 			System.out.println(i);
 		}
+		
+		scan.close();
 	}
 
 }
